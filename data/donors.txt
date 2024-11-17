@@ -1,0 +1,2 @@
+ahmed,200.0,cash
+bebo,300.0,cash
